@@ -1,12 +1,8 @@
 Hi！我是 xiaoqi。我喜欢把技术用在简单、有趣、有用的地方！
 
-看看我的 DSH 肚子里装着什么：
-
-[![我的 DSH 背包](https://john-walks-slow.github.io/my-dsh-inventory/badge.svg)](https://john-walks-slow.github.io/my-dsh-inventory/)
-
 我最近在：
 
-### 开发 AI 驱动的实时视觉小说引擎
+### 开发好玩的
 
 - [aivn](https://github.com/john-walks-slow/aivn) — 由 AI 驱动的视觉小说引擎。由“工坊”和“舞台”两部分组成。工坊中，用户与Agent设计世界观、角色，生成游戏素材。在舞台中，用户与Agent共同演绎故事。结合文本生成、图像生成、语音和音乐生成能力。
 
@@ -43,6 +39,10 @@ Hi！我是 xiaoqi。我喜欢把技术用在简单、有趣、有用的地方�
 
 - [rabbit-skills](https://github.com/john-walks-slow/rabbit-skills) — 一套轻量、松弛、有效的 Coding Agent 配置
 - [my-dsh-inventory](https://github.com/john-walks-slow/my-dsh-inventory) — 我的 DSH 背包
+
+看看我的 DSH 肚子里装着什么：
+
+[![我的 DSH 背包](https://john-walks-slow.github.io/my-dsh-inventory/badge.svg)](https://john-walks-slow.github.io/my-dsh-inventory/)
 
 ### 其他
 
