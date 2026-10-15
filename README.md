@@ -1,6 +1,8 @@
-# Hi！我是 xiaoqi。
+Hi！我是 xiaoqi。我喜欢把技术用在简单、有趣、有用的地方！
 
-我喜欢把技术用在有趣、有用的地方！
+看看我的 DSH 肚子里装着什么：
+
+[![我的 DSH 背包](https://john-walks-slow.github.io/my-dsh-inventory/badge.svg)](https://john-walks-slow.github.io/my-dsh-inventory/)
 
 我最近在：
 
@@ -41,10 +43,6 @@
 
 - [rabbit-skills](https://github.com/john-walks-slow/rabbit-skills) — 一套轻量、松弛、有效的 Coding Agent 配置
 - [my-dsh-inventory](https://github.com/john-walks-slow/my-dsh-inventory) — 我的 DSH 背包
-
-看看我的 DSH 肚子里装着什么：
-
-[![我的 DSH 背包](https://john-walks-slow.github.io/my-dsh-inventory/badge.svg)](https://john-walks-slow.github.io/my-dsh-inventory/)
 
 ### 其他
 
