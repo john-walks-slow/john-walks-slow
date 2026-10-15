@@ -6,7 +6,7 @@
 
 ### 开发好玩的 🦖
 
-- [aivn](https://github.com/john-walks-slow/aivn) — 由 AI 驱动的视觉小说引擎，结合文本生成、图像生成、语音和音乐生成能力。由“工坊”和“舞台”两部分组成。工坊中，用户与Agent设计世界观、角色，生成游戏素材。在舞台中，用户与Agent共同演绎故事。
+- [aivn](https://github.com/john-walks-slow/aivn) — 由 AI 驱动的视觉小说引擎，结合文本生成、图像生成、语音和音乐生成能力。由“工坊”和“舞台”两部分组成。
 
 ### 让 DSH 更好用 🐋
 
