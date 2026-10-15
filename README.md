@@ -48,8 +48,9 @@
 
 ### 其他 📦
 
-- [window-summoner](https://github.com/john-walks-slow/window-summoner) — 呼来唤去，全局老板键
-- [lcl](https://github.com/john-walks-slow/lcl) — 一个空间化的像素留言板。
-- [rabgame](https://github.com/john-walks-slow/rabgame) — 一个小小的增量游戏。
+- 尝试用 AI 做 MV...
 - [pp2](https://github.com/john-walks-slow/pp2) — PowerShell 的服务管理器
+- [window-summoner](https://github.com/john-walks-slow/window-summoner) — 呼来唤去，全局老板键（新版本准备中...)
+- [lcl](https://github.com/john-walks-slow/lcl) — 一个空间化的像素留言板
+- [rabgame](https://github.com/john-walks-slow/rabgame) — 一个小小的增量游戏
 - [cemetery-of-ncov-news](https://github.com/john-walks-slow/cemetery-of-ncov-news)
