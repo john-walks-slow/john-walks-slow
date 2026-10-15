@@ -42,7 +42,7 @@
 - [rabbit-skills](https://github.com/john-walks-slow/rabbit-skills) — 一套轻量、松弛、有效的 Coding Agent 配置
 - [my-dsh-inventory](https://github.com/john-walks-slow/my-dsh-inventory) — 我的 DSH 背包
 
-看看我的 DSH 肚子里装着什么：
+看看我的 DSH 肚子里装着什么：（待更新..待更新..
 
 [![我的 DSH 背包](https://john-walks-slow.github.io/my-dsh-inventory/badge.svg)](https://john-walks-slow.github.io/my-dsh-inventory/)
 
