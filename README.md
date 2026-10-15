@@ -1,4 +1,6 @@
-Hi！我是 xiaoqi。我喜欢把技术用在简单、有趣、有用的地方！
+# Hi！我是 xiaoqi。
+
+我喜欢把技术用在简单、有趣、有用的地方！
 
 我最近在：
 
@@ -16,7 +18,7 @@ Hi！我是 xiaoqi。我喜欢把技术用在简单、有趣、有用的地方�
 - [dsh-hybrid-notify](https://github.com/john-walks-slow/dsh-hybrid-notify) — 页内 Toast / 网页通知 / PWA 通知插件
 - [dsh-zen](https://github.com/john-walks-slow/dsh-zen) — 禅模式
 
-#### Harness 探索
+#### Harness
 
 - [dsh-clear-mind](https://github.com/john-walks-slow/dsh-clear-mind) — 让 Agent 主动整理上下文
 - [dsh-set-model](https://github.com/john-walks-slow/dsh-set-model) — 让 Agent 按任务切换模型和思考深度，支持 jev 路由
