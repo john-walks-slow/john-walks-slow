@@ -8,7 +8,7 @@ Hi！我是 xiaoqi。我喜欢把技术用在简单、有趣、有用的地方�
 
 ### 开发 AI 驱动的实时视觉小说引擎
 
-- [aivn](https://github.com/john-walks-slow/aivn) — AI 视觉小说引擎：舞台 DSL + 工坊，LLM 边写边演
+- [aivn](https://github.com/john-walks-slow/aivn) — 由 AI 驱动的视觉小说引擎。由“工坊”和“舞台”两部分组成。工坊中，用户与Agent设计世界观、角色，生成游戏素材。在舞台中，用户与Agent共同演绎故事。结合文本生成、图像生成、语音和音乐生成能力。
 
 ### 让 DSH 更好用
 
