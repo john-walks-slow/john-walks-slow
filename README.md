@@ -1,4 +1,4 @@
-# Hi！我是 xiaoqi
+# Hi！我是 xiaoqi。
 
 我喜欢把技术用在有趣、有用的地方！
 
@@ -35,12 +35,12 @@
 - [dsh-proactive](https://github.com/john-walks-slow/dsh-proactive) — 让 Agent 主动跟进和发起对话（闹钟/cron/heartbeat/schedule）
 - [dsh-simulated-life](https://github.com/john-walks-slow/dsh-simulated-life) — 为 Agent 构造虚拟的日常生活，并允许它的感受、思考和行动参与后续演化
 - [live2d-voice](https://github.com/john-walks-slow/live2d-voice) — 给 Agent 一个 Live2D 形象和声音，和它语音对话
-- [dsh-im-humanize](https://github.com/john-walks-slow/dsh-im-humanize) — 让聊天节奏更自然的 IM 插件 fork。分段、延迟、语音消息、以及有时不必回复。
+- [dsh-im-humanize](https://github.com/john-walks-slow/dsh-im-humanize) — 让聊天节奏更自然的 IM 插件 fork。分段、延迟、语音消息、以及有时不必回复
 
 ### 我的 AI 开发工作流
 
 - [rabbit-skills](https://github.com/john-walks-slow/rabbit-skills) — 一套轻量、松弛、有效的 Coding Agent 配置
-- [my-dsh-inventory](https://github.com/john-walks-slow/my-dsh-inventory) — 我的 DSH 背包，用星露谷风格收纳插件、技能和踩坑经验。
+- [my-dsh-inventory](https://github.com/john-walks-slow/my-dsh-inventory) — 我的 DSH 背包
 
 看看我的 DSH 肚子里装着什么：
 
@@ -48,8 +48,8 @@
 
 ### 其他
 
-- [window-summoner](https://github.com/john-walks-slow/window-summoner) — 呼来唤去，全局老板键 ⭐ 440
+- [window-summoner](https://github.com/john-walks-slow/window-summoner) — 呼来唤去，全局老板键
 - [lcl](https://github.com/john-walks-slow/lcl) — 一个空间化的像素留言板。
 - [rabgame](https://github.com/john-walks-slow/rabgame) — 一个小小的增量游戏。
 - [pp2](https://github.com/john-walks-slow/pp2) — PowerShell 的服务管理器
-- [cemetery-of-ncov-news](https://github.com/john-walks-slow/cemetery-of-ncov-news) — 已故新冠新闻的赛博坟墓
+- [cemetery-of-ncov-news](https://github.com/john-walks-slow/cemetery-of-ncov-news)
