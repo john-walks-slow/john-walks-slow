@@ -4,11 +4,11 @@
 
 我最近在：
 
-### 🦖 开发好玩的
+### 开发好玩的 🦖
 
 - [aivn](https://github.com/john-walks-slow/aivn) — 由 AI 驱动的视觉小说引擎，结合文本生成、图像生成、语音和音乐生成能力。由“工坊”和“舞台”两部分组成。工坊中，用户与Agent设计世界观、角色，生成游戏素材。在舞台中，用户与Agent共同演绎故事。
 
-### 💫 让 DSH 更好用
+### 让 DSH 更好用 🐋
 
 #### QoL
 
@@ -30,14 +30,14 @@
 - [dsh-cd](https://github.com/john-walks-slow/dsh-cd) — 路径切换
 - [dsh-message-datetime](https://github.com/john-walks-slow/dsh-message-datetime) — 时间戳
 
-### 👶 让 Agent 更拟人
+### 让 Agent 更拟人 👶
 
 - [dsh-proactive](https://github.com/john-walks-slow/dsh-proactive) — 让 Agent 主动跟进和发起对话（闹钟/cron/heartbeat/schedule）
 - [dsh-simulated-life](https://github.com/john-walks-slow/dsh-simulated-life) — 为 Agent 构造虚拟的日常生活，并允许它的感受、思考和行动参与后续演化
 - [live2d-voice](https://github.com/john-walks-slow/live2d-voice) — 给 Agent 一个 Live2D 形象和声音，和它语音对话
 - [dsh-im-humanize](https://github.com/john-walks-slow/dsh-im-humanize) — 让聊天节奏更自然的 IM 插件 fork。分段、延迟、语音消息、以及有时不必回复
 
-### 🚀 我的 AI 开发工作流
+### 我的 AI 开发工作流 🔧
 
 - [rabbit-skills](https://github.com/john-walks-slow/rabbit-skills) — 一套轻量、松弛、有效的 Coding Agent 配置
 - [my-dsh-inventory](https://github.com/john-walks-slow/my-dsh-inventory) — 我的 DSH 背包
@@ -46,7 +46,7 @@
 
 [![我的 DSH 背包](https://john-walks-slow.github.io/my-dsh-inventory/badge.svg)](https://john-walks-slow.github.io/my-dsh-inventory/)
 
-### 📦 其他
+### 其他 📦
 
 - [window-summoner](https://github.com/john-walks-slow/window-summoner) — 呼来唤去，全局老板键
 - [lcl](https://github.com/john-walks-slow/lcl) — 一个空间化的像素留言板。
