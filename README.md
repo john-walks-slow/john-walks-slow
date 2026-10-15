@@ -53,4 +53,5 @@
 - [window-summoner](https://github.com/john-walks-slow/window-summoner) — 呼来唤去，全局老板键（新版本准备中...)
 - [lcl](https://github.com/john-walks-slow/lcl) — 一个空间化的像素留言板
 - [rabgame](https://github.com/john-walks-slow/rabgame) — 一个小小的增量游戏
+- [advanced-fetch-mcp](https://github.com/john-walks-slow/advanced-fetch-mcp) - 比 fetch 强大，比 playwright 简单，支持静态或动态网页的分段抓取
 - [cemetery-of-ncov-news](https://github.com/john-walks-slow/cemetery-of-ncov-news)
