@@ -39,7 +39,7 @@
 
 - [dsh-proactive](https://github.com/john-walks-slow/dsh-proactive) — 让 Agent 主动跟进和发起对话（闹钟/cron/heartbeat/schedule）
 - [dsh-simulated-life](https://github.com/john-walks-slow/dsh-simulated-life) — 为 Agent 构造虚拟的日常生活，并允许它的感受、思考和行动参与后续演化
-- [live2d-voice](https://github.com/john-walks-slow/live2d-voice) — 给 Agent 一个 Live2D 形象和声音，和它语音对话
+- [dsh-live2d-voice](https://github.com/john-walks-slow/dsh-live2d-voice) — 给 Agent 一个 Live2D 形象和声音，和它语音对话
 - [dsh-im-humanize](https://github.com/john-walks-slow/dsh-im-humanize) — 让聊天节奏更自然的 IM 插件 fork。分段、延迟、语音消息、以及有时不必回复
 
 ### 我的 AI 开发工作流 🔧
