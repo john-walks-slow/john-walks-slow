@@ -45,7 +45,7 @@
 ### 我的 AI 开发工作流 🔧
 
 - [rabbit-skills](https://github.com/john-walks-slow/rabbit-skills) — 一套轻量、松弛、有效的 Coding Agent 配置
-- [my-dsh-inventory](https://github.com/john-walks-slow/my-dsh-inventory) — 我的 DSH 背包
+- [my-agent-inventory](https://github.com/john-walks-slow/my-agent-inventory) — 我的 DSH 背包
 
 ### 其他 📦
 
